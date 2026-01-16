@@ -53,25 +53,25 @@ const content = {
   // ============================================
   features: [
     {
-      icon: "chat",
-      title: "Study Smarter, Not Harder",
-      description: "Chat with your AI tutor to clarify doubts and master complex topics instantly.",
-    },
-    {
-      icon: "cards",
-      title: "Practice Until Perfect",
-      description: "Sharpen your skills with interactive flashcards and exam-style MCQs designed for retention.",
-    },
-    {
-      icon: "quiz",
-      title: "Measure Your Mastery",
-      description: "Take real-time quizzes to test your knowledge and pinpoint strengths or gaps across any topic.",
-    },
-    {
-      icon: "chart",
-      title: "Track Your Momentum",
-      description: "Track your progress with analytics and see how you rank within our community.",
-    },
+  icon: "chat",
+  title: "Instant Concept Clarity",
+  description: "Ask questions anytime and get clear, step-by-step explanations from your AI learning partner.",
+},
+{
+  icon: "cards",
+  title: "Learn by Active Recall",
+  description: "Reinforce concepts using smart flashcards and exam-focused MCQs built for long-term memory.",
+},
+{
+  icon: "quiz",
+  title: "Test What Truly Matters",
+  description: "Challenge yourself with adaptive quizzes that reveal exactly what you know and what you don’t.",
+},
+{
+  icon: "chart",
+  title: "Visualize Your Growth",
+  description: "Monitor progress with detailed insights and compare your performance with other learners.",
+},
   ],
 
   // ============================================
@@ -225,7 +225,7 @@ const content = {
       youtube: "https://youtube.com/@teachmint",
     },
     
-    copyright: "© 2025 Teachmint Technologies Pvt. Ltd. All rights reserved.",
+    copyright: "© 2026 Teachmint Technologies Pvt. Ltd. All rights reserved.",
   },
 
   // ============================================
